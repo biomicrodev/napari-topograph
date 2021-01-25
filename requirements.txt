@@ -1,0 +1,7 @@
+colorcet
+fast-histogram
+napari[all]
+pyqtgraph
+scikit-image
+stardist
+git+git://github.com/biomicrodev/common.git#egg=bmd_common
