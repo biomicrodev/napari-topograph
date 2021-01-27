@@ -1,5 +1,6 @@
 colorcet
 fast-histogram
+imagecodecs
 napari[all]
 pyqtgraph
 scikit-image
